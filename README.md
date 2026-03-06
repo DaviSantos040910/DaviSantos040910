@@ -1,1 +1,1 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Davi%20Santos&descAlign=91&desc=Desenvolvedor%20Full-Stack%20de%20aplicações%20Web%20e%20Mobile
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Davi%20Santos&descAlign=49&desc=Desenvolvedor%20Full-Stack%20de%20aplicações%20Web%20e%20Mobile&descAlignY=68"/>
